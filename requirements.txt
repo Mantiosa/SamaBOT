@@ -1,0 +1,8 @@
+flask
+requests
+requests_oauthlib
+discord.py
+mysql-connector-python
+paramiko
+spacy
+python-dotenv
